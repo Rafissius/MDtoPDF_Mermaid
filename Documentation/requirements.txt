@@ -1,0 +1,14 @@
+# requirements.txt — render_mermaid_md.py
+#
+# NOTE: This is NOT a pip requirements file. Do NOT run "pip install -r requirements.txt".
+# This script has NO pip packages. All dependencies are external tools.
+# To install everything automatically, run:
+#
+#   powershell -ExecutionPolicy Bypass -File install.ps1
+#
+# --- Manual install (if you prefer) ---
+#
+# 1. Node.js          winget install OpenJS.NodeJS
+# 2. Pandoc           winget install JohnMacFarlane.Pandoc
+# 3. MiKTeX (xelatex) winget install MiKTeX.MiKTeX
+# 4. Mermaid CLI      npm install -g @mermaid-js/mermaid-cli
